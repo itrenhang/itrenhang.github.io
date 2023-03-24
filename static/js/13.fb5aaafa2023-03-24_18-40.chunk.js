@@ -1,0 +1,1 @@
+(this["webpackJsonpreact-antd-admin-template"]=this["webpackJsonpreact-antd-admin-template"]||[]).push([[13],{122:function(t,e,a){"use strict";a.r(e);a(0);var n=a(16);e.default=function(){return Object(n.jsx)("div",{children:"blog list"})}}}]);
